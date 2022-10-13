@@ -1,6 +1,6 @@
 # Xiiros
 
-**Développeur Logiciel**
+🖥️🖱️ **Développeur Logiciel**
 
 ### 🧑‍💼 Expériences
 
