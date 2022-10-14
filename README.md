@@ -22,7 +22,7 @@
 
 - C, C#, Python, HTML, CSS, JavaScript, React, Java, LaTeX, CamL.
 - Visual Studio Code, Git, Git Hub, Git Lab.
-- Anglais : 810 TOEIC
+- Anglais 🏴󠁧󠁢󠁥󠁮󠁧 : 810 TOEIC
 
 ## ✨ Soft Skills
 
@@ -42,6 +42,7 @@
 - Jeux Vidéos
   - Rocket League
   - Satisfactory
+- Mangas
 
 ## 🚀 Projets
 
