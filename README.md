@@ -14,7 +14,7 @@
 - Visual Studio Code, Git, Git Hub, Git Lab.
 - Anglais : 810 TOEIC
 
-### Soft Skills
+### ✨ Soft Skills
 
 - Adaptabilité
 - Autonomie
