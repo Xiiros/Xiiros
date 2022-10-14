@@ -8,6 +8,12 @@
 - Ausy | Éragny | Octobre 2018 - Juin 2019 | Développeur Testeur
 - Safran Electronics & Defense | Juillet 2017 | Éragny | Développeur assistant
 
+|    Dates                 |  Entreprise                  | Lieu                | Poste                                        |
+| ------------------------ | ---------------------------- | ------------------- | -------------------------------------------- |
+| 2022 - présent           | My REM Degital               | Montmorency         | Développeur logiciel                         |
+| Octobre 2018 - Juin 2019 | Ausy                         | Villejuif           | Développeur Testeur                          |
+| Juillet 2017             | Safran Electronics & Defense | Saint-Ouen-L'Aumône | Prépa Technologies et Sciences Industrielles |
+
 ## 🎓 Formation
 
 
