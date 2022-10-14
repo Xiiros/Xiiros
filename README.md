@@ -8,6 +8,16 @@
 - Ausy | Éragny | Octobre 2018 - Juin 2019 | Développeur Testeur
 - Safran Electronics & Defense | Juillet 2017 | Éragny | Développeur assistant
 
+### 🎓 Formation
+
+
+|    Dates    |  Organisme                      | Type de formation                              |
+| ----------- | ------------------------------- | ---------------------------------------------- |
+| 2022 - 2024 | ESIEE-IT                        | BTS Informatique SIO option SLAM en alternance |
+| 2019 - 2022 | ÉPITA                           | École d'Ingénieur Informatique                 |
+| 2017 - 2018 | Lycée Technologique Jean Perrin | Prépa TSI                                      |
+|    2017     | Lycée Technologique Jean Perrin | Bac STI2D                                      |
+
 ### 🔧 Compétences
 
 - C, C#, Python, HTML, CSS, JavaScript, React, Java, LaTeX, CamL.
