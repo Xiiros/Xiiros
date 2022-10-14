@@ -21,3 +21,9 @@
 - Jeux Vidéos
   - Rocket League
   - Satisfactory
+
+### Projets
+
+- Création d'un site web en HTML/CSS/javascript grâce au framework React.
+- Création et administration de la communauté Discord "Slash FR" (anciennement "Discord FR") ayant atteint 20 000 membres.
+- Création d'un jeu vidéo sous Unity lors d'un projet en équipe de quatre.
