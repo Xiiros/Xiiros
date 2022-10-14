@@ -14,6 +14,17 @@
 - Visual Studio Code, Git, Git Hub, Git Lab.
 - Anglais : 810 TOEIC
 
+### Soft Skills
+
+- Adaptabilité
+- Autonomie
+- Bon relationnel
+- Capacité rédactionnelle et de synthèse
+- Esprit d’équipe
+- Force de proposition
+- Qualité d’analyse
+- Résolution de problèmes
+
 ### ❤️‍🔥 Passions
 
 - Tir à l'arc,
