@@ -4,7 +4,7 @@
 
 ## 🧑‍💼 Expériences
 
-- My REM Degital | Montmorency | Septembre 2022 - présent | Développeur Testeur
+- My REM Degital | Montmorency | Septembre 2022 - présent | Développeur logiciel
 - Ausy | Éragny | Octobre 2018 - Juin 2019 | Développeur Testeur
 - Safran Electronics & Defense | Juillet 2017 | Éragny | Développeur assistant
 
