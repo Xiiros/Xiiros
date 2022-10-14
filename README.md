@@ -16,7 +16,7 @@
 | 2022 - 2024 | ESIEE-IT                        | BTS Informatique SIO option SLAM en alternance |
 | 2019 - 2022 | ÉPITA                           | École d'Ingénieur Informatique                 |
 | 2017 - 2018 | Lycée Technologique Jean Perrin | Prépa TSI                                      |
-|    2017     | Lycée Technologique Jean Perrin | Bac STI2D                                      |
+|    2017     | Lycée Technologique Jean Perrin | Bac STI2D Mention assez bien                   |
 
 ### 🔧 Compétences
 
