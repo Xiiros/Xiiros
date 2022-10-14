@@ -11,12 +11,12 @@
 ## 🎓 Formation
 
 
-|    Dates    |  Organisme                      | Type de formation                              |
-| ----------- | ------------------------------- | ---------------------------------------------- |
-| 2022 - 2024 | ESIEE-IT                        | BTS Informatique SIO option SLAM en alternance |
-| 2019 - 2022 | ÉPITA                           | École d'Ingénieur Informatique                 |
-| 2017 - 2018 | Lycée Technologique Jean Perrin | Prépa Technologies et Sciences Industrielles   |
-|    2017     | Lycée Technologique Jean Perrin | Bac STI2D Mention assez bien                   |
+|    Dates    |  Organisme                      | Lieu                | Type de formation                              |
+| ----------- | ------------------------------- | ------------------- | ---------------------------------------------- |
+| 2022 - 2024 | ESIEE-IT                        | Pontoise            | BTS Informatique SIO option SLAM en alternance |
+| 2019 - 2022 | ÉPITA                           | Villejuif           | École d'Ingénieur Informatique                 |
+| 2017 - 2018 | Lycée Technologique Jean Perrin | Saint-Ouen-L'Aumône | Prépa Technologies et Sciences Industrielles   |
+|    2017     | Lycée Technologique Jean Perrin | Saint-Ouen-L'Aumône | Bac STI2D Mention assez bien                   |
 
 ## 🔧 Compétences
 
