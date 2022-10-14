@@ -2,13 +2,13 @@
 
 🖥️🖱️ **Développeur Logiciel**
 
-### 🧑‍💼 Expériences
+## 🧑‍💼 Expériences
 
 - My REM Degital | Montmorency | Septembre 2022 - présent | Développeur Testeur
 - Ausy | Éragny | Octobre 2018 - Juin 2019 | Développeur Testeur
 - Safran Electronics & Defense | Juillet 2017 | Éragny | Développeur assistant
 
-### 🎓 Formation
+## 🎓 Formation
 
 
 |    Dates    |  Organisme                      | Type de formation                              |
@@ -18,13 +18,13 @@
 | 2017 - 2018 | Lycée Technologique Jean Perrin | Prépa TSI                                      |
 |    2017     | Lycée Technologique Jean Perrin | Bac STI2D Mention assez bien                   |
 
-### 🔧 Compétences
+## 🔧 Compétences
 
 - C, C#, Python, HTML, CSS, JavaScript, React, Java, LaTeX, CamL.
 - Visual Studio Code, Git, Git Hub, Git Lab.
 - Anglais : 810 TOEIC
 
-### ✨ Soft Skills
+## ✨ Soft Skills
 
 - Adaptabilité
 - Autonomie
@@ -35,7 +35,7 @@
 - Qualité d’analyse
 - Résolution de problèmes
 
-### ❤️‍🔥 Passions
+## ❤️‍🔥 Passions
 
 - Tir à l'arc,
 - Tennis,
@@ -43,7 +43,7 @@
   - Rocket League
   - Satisfactory
 
-### 🚀 Projets
+## 🚀 Projets
 
 - Création d'un site web en HTML/CSS/javascript grâce au framework React. ![Icone React](./images/React.png)
 - Création et administration de la communauté Discord "Slash FR" (anciennement "Discord FR") ayant atteint 20 000 membres.
